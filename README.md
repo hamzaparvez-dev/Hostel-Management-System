@@ -343,11 +343,6 @@ hostel-management/
 - **Monthly**: Performance monitoring
 - **Quarterly**: Security updates
 
-### Support Contact
-- **Technical Support**: tech@navpurushhostel.com
-- **Emergency**: +91-XXXXXXXXXX
-- **Documentation**: Available in `/docs/`
-
 ## License
 
 This project is proprietary software developed for Nav Purush Boys Hostel. All rights reserved.
